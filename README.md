@@ -1,6 +1,9 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=GuilhermeMPCosta
-<!--
+<div>
+      <a href="https://github.com/GuilhermeMPCosta"></a>
+      <img height="100em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMPCosta">
+      <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeMPCosta">
+      </div>
 **GuilhermeMPCosta/GuilhermeMPCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <details>
 <summmary>Lista</summary>
