@@ -1,3 +1,11 @@
+<div>
+      Ola,sou o Guilherme Marques
+      
+      Estudo font-end/back-end
+      Atualmente estou estudado python
+      Sou un desenvovedor novato
+</div>
+
 
 <div>
       <a href="https://github.com/GuilhermeMPCosta"></a>
