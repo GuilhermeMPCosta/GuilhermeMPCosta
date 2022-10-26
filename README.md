@@ -2,8 +2,7 @@
       Ola,sou o Guilherme Marques
       
       Estudo font-end/back-end
-      Atualmente estou estudado python
-      Sou un desenvovedor novato
+      Atualmente estou estudando python
 </div>
 
 
