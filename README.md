@@ -1,4 +1,4 @@
-<div style="text-size:72px">
+<div style="font-size:72px">
       Ola,sou o Guilherme Marques
       
       Estudo font-end/back-end
