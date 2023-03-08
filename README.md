@@ -1,10 +1,10 @@
 <div style="font-size:72px">
       Ola,sou o Guilherme Marques
       
-            🙋‍♂️ Estou cursando o curso de ciencia da computação, na Unifenas em Alfenas-MG,<br> 
-            atualmente estou no 7° periodo,<br>
-            trabalho na area em torno de 6 meses como desenvolvedor full stack,<br>
-            sempre busco melhorar nas tecnologias que já utilizo, como também estou sempre de olho<br>
+            🙋‍♂️ Estou cursando o curso de ciencia da computação, na Unifenas em Alfenas-MG, 
+            atualmente estou no 7° periodo,
+            trabalho na area em torno de 6 meses como desenvolvedor full stack,
+            sempre busco melhorar nas tecnologias que já utilizo, como também estou sempre de olho
             em novas tecnologias do mercado afim de estar preparado e capacitado para novas tendências.
 
       
