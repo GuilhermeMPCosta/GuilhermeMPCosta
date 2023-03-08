@@ -1,8 +1,7 @@
 <div style="font-size:72px">
       Ola,sou o Guilherme Marques
       
-      Estudo font-end/back-end
-      Atualmente estou estudando python
+      Estou tarabalhando na area em torno de 6 meses como desenvolvedor full stack, sempre busco melhorar nas tecnologias que já utilizo, como também estou sempre de olho em novas tecnologias do mercado afim de estar preparado e capacitado para novas tendências.
 </div>
 
 
