@@ -8,10 +8,8 @@
 
       
 </div>
+![GitHub 3D Contributions](profile-3d-contrib/profile-night-green.svg)
 
-<div>
-      ![GitHub 3D Contributions](profile-3d-contrib/profile-night-green.svg)
-</div>
 
 <div>
       <a href="https://github.com/GuilhermeMPCosta"></a>
