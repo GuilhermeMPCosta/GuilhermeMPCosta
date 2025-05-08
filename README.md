@@ -10,7 +10,7 @@
 </div>
 
 <div>
-      ![Status](./profile-3d-contrib/profile-night-green.svg)
+      ![GitHub 3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 </div>
 
 <div>
