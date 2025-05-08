@@ -9,6 +9,9 @@
       
 </div>
 
+<div>
+      ![Status](./profile-3d-contrib/profile-night-green.svg)
+</div>
 
 <div>
       <a href="https://github.com/GuilhermeMPCosta"></a>
